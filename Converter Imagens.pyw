@@ -49,6 +49,7 @@ ctk.set_default_color_theme("blue")
 root = ctk.CTk()
 root.title("Conversor de Imagens")
 root.iconbitmap("./imagem.ico")
+root.attributes('-alpha', 0.92)
 
 root.geometry("400x500")
 root.resizable(False, False)
