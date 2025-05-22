@@ -1,4 +1,6 @@
+<p align='center'>
 <img src="https://github.com/user-attachments/assets/0756a623-f2c8-40f8-8590-25840003b198" height="400" />
+</p>
 
 Instalar Python:
 
